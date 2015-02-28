@@ -2,4 +2,4 @@ Linkovi na kojima se nalaze korisni tutorijali.
 
 1. https://www.atlassian.com/git/tutorial
 
-2. git-scm.com/book
+2. http://git-scm.com/book/en/v2
