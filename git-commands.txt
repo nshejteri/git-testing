@@ -1,5 +1,15 @@
 Git komande:
 
-1. git commit
-2. git log
+1. git config --global user.name "Ime Prezime"
+2. git config --global user.email ime.prezime@example.com
+3. git config --global core.editor emacs
+4. git config --list
 
+5. git init
+6. git add [file name, .]
+7. git clone https://github.com/nshejteri/git-testing.git
+8. git status
+9. git diff
+10. git diff --staged
+11. git commit -m "comment"
+12. 
