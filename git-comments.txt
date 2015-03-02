@@ -55,3 +55,10 @@ git rm --cached filename
 	on your hard drive but not have Git track it anymore. This is particularly useful 
 	if you forgot to add something to your .gitignore file and accidentally staged it, 
 	like a large log file or a bunch of .a compiled files. To do this, use the --cached option.
+
+14.
+git commit --amend
+
+	One of the common undos takes place when you commit too early and possibly forget to add 
+	some files, or you mess up your commit message. If you want to try that commit again, 
+	you can run commit with the --amend option.

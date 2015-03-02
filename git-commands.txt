@@ -14,3 +14,4 @@ Git komande:
 11. git commit -m "comment"
 12. git rm filename
 13. git rm --cached filename
+14. git commit --amend
