@@ -37,3 +37,8 @@ git diff --staged
 	If you want to see what you’ve staged that will go into your next commit, 
 	you can use git diff --staged. This command compares your staged changes to your last commit.
 	(--staged and --cached are synonyms)
+
+
+12. 
+git remote add origin https://github.com/pbomestar/thug_life.git
+    tells you all about thugh life
