@@ -3,3 +3,22 @@ Linkovi na kojima se nalaze korisni tutorijali.
 1. https://www.atlassian.com/git/tutorial
 
 2. http://git-scm.com/book/en/v2
+
+
+
+
+To learn:
+
+1. prebacivanje sa grane na granu kad se nesto vec menja.
+
+	Error:
+		bomi@DeepBlue:~/Documents/Workspace/Web/Git-shit/git-testing$ git checkout boma-ass-buster 
+		error: Your local changes to the following files would be overwritten by checkout:
+			git-commands.txt
+		Please, commit your changes or stash them before you can switch branches.
+		Aborting
+
+
+
+
+n. Vracanje na prethodnu verziju fajlova

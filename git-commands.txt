@@ -16,5 +16,6 @@ Git komande:
 12. git remote add origin https://github.com/pbomestar/thug_life.git
 
 13. git branch
-14. git branch branch-name //creating new branch with branch-name as a, you guess, new branch name
-15. git checkout branch-name // switching to new branch
+14. git branch branch-name 					// creating new branch with branch-name as a, you guess, new branch name
+15. git checkout branch-name 				// switching to new branch
+16. git branch -r 							// gives a list of all branches on git hub (not local)
