@@ -13,4 +13,6 @@ Git komande:
 10. git diff --staged
 11. git commit -m "comment"
 
-12. git remote add origin https://github.com/pbomestar/thug_life.git
+12. git remote add origin https://github.com/pbomestar/thug_life.gitgit 
+
+13. git branch -r
