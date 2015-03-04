@@ -14,3 +14,7 @@ Git komande:
 11. git commit -m "comment"
 
 12. git remote add origin https://github.com/pbomestar/thug_life.git
+
+13. git branch
+14. git branch branch-name //creating new branch with branch-name as a, you guess, new branch name
+15. git checkout branch-name // switching to new branch
