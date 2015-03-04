@@ -44,3 +44,4 @@ git remote add origin https://github.com/pbomestar/thug_life.git
     tells you all about thugh life
 
 13. changes for droid
+14. new droid
