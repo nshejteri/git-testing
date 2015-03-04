@@ -24,3 +24,4 @@ To learn:
 n. Vracanje na prethodnu verziju fajlova
 
 Nove izmene u fajlu samo radi pokusaja pushovanja sa lokalne dev grane na remote dev granu.
+Najnovije izmene
